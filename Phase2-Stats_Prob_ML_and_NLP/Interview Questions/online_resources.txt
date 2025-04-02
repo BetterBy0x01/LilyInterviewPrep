@@ -1,0 +1,6 @@
+ML
+https://www.simplilearn.com/tutorials/machine-learning-tutorial/machine-learning-interview-questions
+https://github.com/andrewekhalel/MLQuestions
+
+NLP
+https://365datascience.com/career-advice/job-interview-tips/nlp-interview-questions/
